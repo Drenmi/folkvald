@@ -1,0 +1,33 @@
+AllCops:
+  TargetRubyVersion: 2.4
+  Exclude:
+    - "bin/**/*"
+    - "db/**/*"
+    - "log/**/*"
+    - "public/**/*"
+    - "tmp/**/*"
+    - "vendor/**/*"
+    - "config.ru"
+    - "Gemfile"
+    - "Rakefile"
+
+Metrics/BlockLength:
+  Exclude:
+    - "lib/tasks/**/*"
+    - "spec/**/*"
+
+Metrics/LineLength:
+  Exclude:
+    - "spec/**/*"
+
+Style/Documentation:
+  Include:
+    - "app/models/**/*"
+  Exclude:
+    - "app/models/application_record.rb"
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Rails:
+  Enabled: true
