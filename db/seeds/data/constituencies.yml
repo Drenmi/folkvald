@@ -1,0 +1,60 @@
+---
+constituencies:
+  - district_name: "Blekinge län"
+    seat_count: 5
+  - district_name: "Dalarnas län"
+    seat_count: 11
+  - district_name: "Gotlands län"
+    seat_count: 2
+  - district_name: "Gävleborgs län"
+    seat_count: 11
+  - district_name: "Göteborgs kommun"
+    seat_count: 17
+  - district_name: "Hallands län"
+    seat_count: 12
+  - district_name: "Jämtlands län"
+    seat_count: 4
+  - district_name: "Jönköpings län"
+    seat_count: 13
+  - district_name: "Kalmars län"
+    seat_count: 8
+  - district_name: "Kronobergs län"
+    seat_count: 6
+  - district_name: "Malmö kommun"
+    seat_count: 11
+  - district_name: "Norrbottens län"
+    seat_count: 8
+  - district_name: "Skåne läns norra och östra"
+    seat_count: 13
+  - district_name: "Skåne läns södra"
+    seat_count: 13
+  - district_name: "Skåne läns västra"
+    seat_count: 11
+  - district_name: "Stockholms kommun"
+    seat_count: 32
+  - district_name: "Stockholms län"
+    seat_count: 39
+  - district_name: "Södermanlands län"
+    seat_count: 11
+  - district_name: "Uppsala län"
+    seat_count: 12
+  - district_name: "Värmlands län"
+    seat_count: 11
+  - district_name: "Västerbottens län"
+    seat_count: 10
+  - district_name: "Västernorrlands län"
+    seat_count: 10
+  - district_name: "Västmanlands län"
+    seat_count: 10
+  - district_name: "Västra Götalands län norra"
+    seat_count: 13
+  - district_name: "Västra Götalands län södra"
+    seat_count: 6
+  - district_name: "Västra Götalands län västra"
+    seat_count: 13
+  - district_name: "Västra Götalands län östra"
+    seat_count: 10
+  - district_name: "Örebro län"
+    seat_count: 12
+  - district_name: "Östergötlands län"
+    seat_count: 15
