@@ -1,0 +1,11 @@
+---
+sv:
+  activerecord:
+    models:
+      constituency:
+        one:   "Valkrets"
+        other: "Valkretsar"
+    attributes:
+      constituency:
+        district_name: "Distrikt"
+        seat_count:    "Antal mandat"
